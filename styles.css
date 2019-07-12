@@ -1,0 +1,20 @@
+.rita {
+}
+body{
+  background-color: blue;
+
+}
+h1{color: red;
+
+}
+body{
+  background-image: url("https://pbs.twimg.com/media/CdXPjqYXEAAor83.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  font-style: oblique;
+  word-wrap:
+  image-float:right;
+}
