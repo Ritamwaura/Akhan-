@@ -33,35 +33,35 @@ function check(){
   calc();
   if (gender == "male") {
     if (day == 0) {
-      alert("You were born on a sunday" + maleNames[0]);
+      alert("You were born on a sunday" + male Names[0]);
     }else if(day == 1){
-      alert("You were born on a monday" + maleNames[1]);
+      alert("You were born on a monday" + male Names[1]);
     }else if(day == 2){
-      alert("You were born on a tuesday" + maleNames[2]);
+      alert("You were born on a tuesday" + male Names[2]);
     }else if(day == 3){
-      alert("You were born on a wednesday"+ maleNames[3]);
+      alert("You were born on a wednesday"+ male Names[3]);
     }else if(day == 4){
-      alert("You were born on a thursday" + maleNames[4]);
+      alert("You were born on a thursday" + male Names[4]);
     }else if(day == 5){
-      alert("You were born on a friday" + maleNames[5]);
+      alert("You were born on a friday" + male Names[5]);
     }else if(day == 6){
-      alert("You were born on a saturday" + maleNames[6]);
+      alert("You were born on a saturday" + male Names[6]);
     }
   }else if(gender == "female"){
     if (day == 0) {
-      alert("You were born on a sunday" + femaleNames[0]);
+      alert("You were born on a sunday" + female Names[0]);
     }else if(day == 1){
-      alert("You were born on a monday" + femaleNames[1]);
+      alert("You were born on a monday" + female Names[1]);
     }else if(day == 2){
-      alert("You were born on a tuesday" + femaleNames[2]);
+      alert("You were born on a tuesday" + female Names[2]);
     }else if(day == 3){
-      alert("You were born on a wednesday"+ femaleNames[3]);
+      alert("You were born on a wednesday"+ female Names[3]);
     }else if(day == 4){
-      alert("You were born on a thursday" + femaleNames[4]);
+      alert("You were born on a thursday" + female Names[4]);
     }else if(day == 5){
-      alert("You were born on a friday" + femaleNames[5]);
+      alert("You were born on a friday" + female Names[5]);
     }else if(day == 6){
-      alert("You were born on a saturday" + femaleNames[6]);
+      alert("You were born on a saturday" + female Names[6]);
     }
   }
 
