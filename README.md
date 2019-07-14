@@ -8,5 +8,5 @@ Rita Mwaura
 java script
 HTML
 style CSS
-####License
+#### License
 MIT license
