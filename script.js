@@ -1,4 +1,4 @@
-ar cen, year, month, date, day, gender;
+var cen, year, month, date, day, gender;
 var maleNames["kwasi", "kwadwo", "kwabena", "kwaku", "yaw", "kofi", "kwame"];
 var femaleNames["akosua", "adwoa", "abenaa", "akwa", "yaa", "afua", "ama"];
 
