@@ -1,20 +1,13 @@
-.rita {
-}
-body{
-  background-color: blue;
-
-}
-h1{color: red;
-
-}
-body{
-  background-image: url("https://pbs.twimg.com/media/CdXPjqYXEAAor83.jpg");
+.jumbotron{
+  margin-top: 5px;
+  height: 660px;
+  padding: 0;
   background-repeat: no-repeat;
   background-size: cover;
-  text-align: center;
-  font-size: 25px;
-  color: white;
-  font-style: oblique;
-  word-wrap:
-  image-float:right;
+  background-image: url('https://weetracker.com/wp-content/uploads/2018/03/gh.jpg');
+}
+.overlay{
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 660px;
+  width: 100%;
 }
