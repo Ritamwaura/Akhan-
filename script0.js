@@ -62,11 +62,6 @@ function check(){
       alert("You were born on a friday" + femaleNames[5]);
     }else if(day == 6){
       alert("You were born on a saturday" + femaleNames[6]);
-      if (day==-1) {
-        else if (*-1) {
-
-        }
-      }
     }
   }
 
