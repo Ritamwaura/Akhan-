@@ -14,7 +14,7 @@ function input(){
 
 function calc(){
   input();
-  day = (((cen/4) -2*year-1) + ((5*year/4) ) + ((26*(month+1)/10)) + date ) % 7;
+  day = ( ((cen/4) -2*year-1) + ((5*year/4) ) + ((26*(month+1)/10)) + date ) % 7;
     return day = (Math.floor(day));
 }
   var result=calc();
@@ -62,6 +62,11 @@ function check(){
       alert("You were born on a friday" + femaleNames[5]);
     }else if(day == 6){
       alert("You were born on a saturday" + femaleNames[6]);
+      if (day==-1) {
+        else if (*-1) {
+
+        }
+      }
     }
   }
 
